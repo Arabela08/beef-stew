@@ -1,0 +1,15 @@
+/workspaces/beef-stew/consoleApp/bin/Debug/net8.0/consoleApp
+/workspaces/beef-stew/consoleApp/bin/Debug/net8.0/consoleApp.deps.json
+/workspaces/beef-stew/consoleApp/bin/Debug/net8.0/consoleApp.runtimeconfig.json
+/workspaces/beef-stew/consoleApp/bin/Debug/net8.0/consoleApp.dll
+/workspaces/beef-stew/consoleApp/bin/Debug/net8.0/consoleApp.pdb
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.AssemblyInfoInputs.cache
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.AssemblyInfo.cs
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.csproj.CoreCompileInputs.cache
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.sourcelink.json
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.dll
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/refint/consoleApp.dll
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.pdb
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/consoleApp.genruntimeconfig.cache
+/workspaces/beef-stew/consoleApp/obj/Debug/net8.0/ref/consoleApp.dll
